@@ -1,0 +1,8 @@
+D:\FCISS\Year 3\Third year 1st Term\Algorithms Analysis and Design\Projects\[1] Image Quantization\Project\Team(59)ImageQuantizationProject\ImageQuantization\obj\Debug\ImageQuantization.exe
+D:\FCISS\Year 3\Third year 1st Term\Algorithms Analysis and Design\Projects\[1] Image Quantization\Project\Team(59)ImageQuantizationProject\ImageQuantization\obj\Debug\ImageQuantization.pdb
+D:\FCISS\Year 3\Third year 1st Term\Algorithms Analysis and Design\Projects\[1] Image Quantization\Project\Team(59)ImageQuantizationProject\ImageQuantization\bin\Debug\ImageQuantization.exe
+D:\FCISS\Year 3\Third year 1st Term\Algorithms Analysis and Design\Projects\[1] Image Quantization\Project\Team(59)ImageQuantizationProject\ImageQuantization\bin\Debug\ImageQuantization.pdb
+D:\FCISS\Year 3\Third year 1st Term\Algorithms Analysis and Design\Projects\[1] Image Quantization\Project\Team(59)ImageQuantizationProject\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+D:\FCISS\Year 3\Third year 1st Term\Algorithms Analysis and Design\Projects\[1] Image Quantization\Project\Team(59)ImageQuantizationProject\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+D:\FCISS\Year 3\Third year 1st Term\Algorithms Analysis and Design\Projects\[1] Image Quantization\Project\Team(59)ImageQuantizationProject\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+D:\FCISS\Year 3\Third year 1st Term\Algorithms Analysis and Design\Projects\[1] Image Quantization\Project\Team(59)ImageQuantizationProject\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
